@@ -3,15 +3,27 @@ import styled from 'styled-components/native';
 export const Container = styled.SafeAreaView`
   flex: 1;
 `;
-export const Title = styled.Text`
+export const Title = styled.View`
   font-size: 20px;
   color: #fff;
-  font-weight: bold;
   align-self: center;
-  margin-top: 30px;
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+`;
+
+export const DateButton = styled.TouchableOpacity`
+  color: #fff;
+`;
+export const DateLabel = styled.Text`
+  font-size: 20px;
+  color: #fff;
+  margin: 0 5px;
 `;
 
 export const List = styled.FlatList.attrs({
-  contentContainerStyle: { padding: 30 },
+  contentContainerStyle: { paddingLeft: 15, paddingRight: 15 },
   showVerticalScrollIndicator: false,
 })``;

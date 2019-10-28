@@ -31,6 +31,11 @@
 		6F0DA883117A4E2DAC2C37B9 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1749ECE2796E4A2DA2C5D6C5 /* Octicons.ttf */; };
 		735833A6FEE847C6820F29AC /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B001843C32EC44B69CFD97CE /* SimpleLineIcons.ttf */; };
 		B5182FFB292745F99356B947 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01285E71E55940D2815FF00D /* Zocial.ttf */; };
+		BB4EBA73967B47C08ABEE4C7 /* Helvetica Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D833F0BEB0854E1AB1846BF1 /* Helvetica Bold.ttf */; };
+		83B4258E473B49FC9AAC2C12 /* Helvetica-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 905F30610BB848978F8D96E0 /* Helvetica-Black.otf */; };
+		5FCC1B3EEFE84142A4656675 /* Helvetica-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 24B971A3127B4ED7905F00C6 /* Helvetica-Light.otf */; };
+		0DF6F61129C54D18B0E9A32F /* Helvetica-Narrow.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6DEB86CA06EE4F6DA030B938 /* Helvetica-Narrow.otf */; };
+		54258D9AD47C4AB18AF5C932 /* Helvetica-Normal.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F6D1116F0A2E4FCDA054FE42 /* Helvetica-Normal.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +87,11 @@
 		1749ECE2796E4A2DA2C5D6C5 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		B001843C32EC44B69CFD97CE /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		01285E71E55940D2815FF00D /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D833F0BEB0854E1AB1846BF1 /* Helvetica Bold.ttf */ = {isa = PBXFileReference; name = "Helvetica Bold.ttf"; path = "../src/assets/fonts/Helvetica Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		905F30610BB848978F8D96E0 /* Helvetica-Black.otf */ = {isa = PBXFileReference; name = "Helvetica-Black.otf"; path = "../src/assets/fonts/Helvetica-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		24B971A3127B4ED7905F00C6 /* Helvetica-Light.otf */ = {isa = PBXFileReference; name = "Helvetica-Light.otf"; path = "../src/assets/fonts/Helvetica-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6DEB86CA06EE4F6DA030B938 /* Helvetica-Narrow.otf */ = {isa = PBXFileReference; name = "Helvetica-Narrow.otf"; path = "../src/assets/fonts/Helvetica-Narrow.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F6D1116F0A2E4FCDA054FE42 /* Helvetica-Normal.ttf */ = {isa = PBXFileReference; name = "Helvetica-Normal.ttf"; path = "../src/assets/fonts/Helvetica-Normal.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +218,11 @@
 				1749ECE2796E4A2DA2C5D6C5 /* Octicons.ttf */,
 				B001843C32EC44B69CFD97CE /* SimpleLineIcons.ttf */,
 				01285E71E55940D2815FF00D /* Zocial.ttf */,
+				D833F0BEB0854E1AB1846BF1 /* Helvetica Bold.ttf */,
+				905F30610BB848978F8D96E0 /* Helvetica-Black.otf */,
+				24B971A3127B4ED7905F00C6 /* Helvetica-Light.otf */,
+				6DEB86CA06EE4F6DA030B938 /* Helvetica-Narrow.otf */,
+				F6D1116F0A2E4FCDA054FE42 /* Helvetica-Normal.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -365,6 +380,11 @@
 				6F0DA883117A4E2DAC2C37B9 /* Octicons.ttf in Resources */,
 				735833A6FEE847C6820F29AC /* SimpleLineIcons.ttf in Resources */,
 				B5182FFB292745F99356B947 /* Zocial.ttf in Resources */,
+				BB4EBA73967B47C08ABEE4C7 /* Helvetica Bold.ttf in Resources */,
+				83B4258E473B49FC9AAC2C12 /* Helvetica-Black.otf in Resources */,
+				5FCC1B3EEFE84142A4656675 /* Helvetica-Light.otf in Resources */,
+				0DF6F61129C54D18B0E9A32F /* Helvetica-Narrow.otf in Resources */,
+				54258D9AD47C4AB18AF5C932 /* Helvetica-Normal.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -71,6 +71,11 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>Helvetica Bold.ttf</string>
+		<string>Helvetica-Black.otf</string>
+		<string>Helvetica-Light.otf</string>
+		<string>Helvetica-Narrow.otf</string>
+		<string>Helvetica-Normal.ttf</string>
 	</array>
 </dict>
 </plist>
