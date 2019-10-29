@@ -6,7 +6,7 @@ import api from '~/services/api';
 
 import { Container, Title, List } from './styles';
 
-function Inscription({ isFocused }) {
+function Subscription({ isFocused }) {
   const [appointments, setAppointments] = useState([]);
 
   async function loadAppoinments() {
@@ -43,11 +43,11 @@ function Inscription({ isFocused }) {
   );
 }
 
-Inscription.navigationOptions = {
+Subscription.navigationOptions = {
   tabBarLabel: 'Inscrições',
   tabBarIcon: ({ tintColor }) => (
     <Icon name="tag" size={20} color={tintColor} />
   ),
 };
 
-export default withNavigationFocus(Inscription);
+export default withNavigationFocus(Subscription);

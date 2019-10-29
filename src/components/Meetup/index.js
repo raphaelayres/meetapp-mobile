@@ -47,7 +47,7 @@ export default function Meetup({ data, action }) {
             {data.organizer.name}
           </InfoText>
         </Info>
-        <ButtonAction onPress={() => {}}>
+        <ButtonAction onPress={() => action(data.id)}>
           <ButtonText>Realizar inscrição</ButtonText>
         </ButtonAction>
       </BoxItems>
